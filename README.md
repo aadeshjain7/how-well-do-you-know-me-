@@ -2,7 +2,7 @@
 
 This is a CLI app made using javascript learned in neog.camp
 
-This is aquiz of how well do yo know Aadesh.
+This is a quiz of how well do yo know Aadesh.
 
 # Code-link:
 https://repl.it/@Aadeshj/doyouknowmeQuiz#index.js
